@@ -1,1 +1,1 @@
-salutation
+salutations
