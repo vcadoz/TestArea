@@ -1,1 +1,1 @@
-salutation bogoss
+salutation bg
