@@ -1,1 +1,1 @@
-salutation bg
+salut
